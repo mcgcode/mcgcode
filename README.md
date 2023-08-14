@@ -1,4 +1,4 @@
-<b>Hello, Im Cristina!</b> 👨‍💻
+<b>Hello, I´m Cristina!</b> 👨‍💻
 
 
 ![image](https://github.com/mcgcode/mcgcode/assets/142260553/d8e2aa24-c334-4075-aadc-9fbf0cedd913)
@@ -13,15 +13,14 @@
 ![image](https://github.com/mcgcode/mcgcode/assets/142260553/bf062cbd-2df2-47a2-ab33-d5bf0afc8179)
 ![image](https://github.com/mcgcode/mcgcode/assets/142260553/27d8026b-ede6-4590-8ab5-f603dfd3d785)
 
+![image](https://github.com/mcgcode/mcgcode/assets/142260553/977c8a1e-c894-4ae2-89dc-147821dc487d)
+
+
+
+
+
 - [LinkedIn](https://www.linkedin.com/in/mcgdeveloper/)
 - [Porfolio](https://porfoliomcgdeveloper.vercel.app/)
-  
-![image](https://github.com/mcgcode/mcgcode/assets/142260553/9054fd80-a5a1-4d20-abf1-3f4db37fe155)
-
-
-
-
-
   
 
 
