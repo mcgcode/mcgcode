@@ -1,4 +1,6 @@
 HI! I´M CRISTINA GóMEZ 
+
+
 ![image](https://github.com/mcgcode/mcgcode/assets/142260553/d8e2aa24-c334-4075-aadc-9fbf0cedd913)
 ![image](https://github.com/mcgcode/mcgcode/assets/142260553/3b6899f4-7106-4d78-9256-eeb9724a9d61)
 ![image](https://github.com/mcgcode/mcgcode/assets/142260553/351dcb95-0701-459b-a157-2f3f93fc5348)
@@ -11,7 +13,7 @@ HI! I´M CRISTINA GóMEZ
 ![image](https://github.com/mcgcode/mcgcode/assets/142260553/bf062cbd-2df2-47a2-ab33-d5bf0afc8179)
 ![image](https://github.com/mcgcode/mcgcode/assets/142260553/27d8026b-ede6-4590-8ab5-f603dfd3d785)
 
-- [LinkedIn] (https://www.linkedin.com/in/mcgdeveloper/)
+- [LinkedIn](https://www.linkedin.com/in/mcgdeveloper/)
 - [Porfolio](https://porfoliomcgdeveloper.vercel.app/)
   
 ![1681763015988](https://github.com/mcgcode/mcgcode/assets/142260553/0701da81-4564-480f-b9e7-76a8cd01dc56)
