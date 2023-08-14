@@ -16,7 +16,8 @@
 - [LinkedIn](https://www.linkedin.com/in/mcgdeveloper/)
 - [Porfolio](https://porfoliomcgdeveloper.vercel.app/)
   
-![1681763015988](https://github.com/mcgcode/mcgcode/assets/142260553/0701da81-4564-480f-b9e7-76a8cd01dc56)
+![image](https://github.com/mcgcode/mcgcode/assets/142260553/9054fd80-a5a1-4d20-abf1-3f4db37fe155)
+
 
 
 
