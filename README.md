@@ -1,4 +1,4 @@
-Hello, Im Cristina! 👨‍💻
+<b>Hello, Im Cristina!</b> 👨‍💻
 
 
 ![image](https://github.com/mcgcode/mcgcode/assets/142260553/d8e2aa24-c334-4075-aadc-9fbf0cedd913)
