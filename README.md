@@ -13,12 +13,12 @@
 ![image](https://github.com/mcgcode/mcgcode/assets/142260553/bf062cbd-2df2-47a2-ab33-d5bf0afc8179)
 ![image](https://github.com/mcgcode/mcgcode/assets/142260553/27d8026b-ede6-4590-8ab5-f603dfd3d785)
 
-![image](https://github.com/mcgcode/mcgcode/assets/142260553/dda9c3cb-f135-4fac-b79c-f527a0d68467)
 
 
 
 
 
+![200w](https://github.com/mcgcode/mcgcode/assets/142260553/3d6a090c-8967-4319-8590-7c2a236f9f6b)
 
 
 - [LinkedIn](https://www.linkedin.com/in/mcgdeveloper/)
